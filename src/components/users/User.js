@@ -37,7 +37,7 @@ class User extends Component {
     return (
       <Fragment>
         <Link to='/' className='btn bnt-light'>
-          Back to search
+          Back To Search
         </Link>
         Hireable:{' '}
         {hireable ? (
